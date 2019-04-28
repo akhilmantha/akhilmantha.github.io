@@ -1,6 +1,6 @@
 <span id="a">akhil@mantha</span>:<span id="b">~</span><span id="c">$</span> cd akhilmantha/<!-- kjsdfhkjdhsfkjdshfkj -->About_Akhil
 <span id="a">akhil@mantha</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->akhilmantha.txt<br/><br/>
-My favorite code quote, "<span id="k">Build fast, Code big</span>". <!-- sjkfhskjf -->
+My favourite code quote by Peter Deutsch, "<span id="k">To iterate is human, to recurse divine!</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Akhil Mantha.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working at a Ycombinator backed startup called Piggy as a Software Development Engineer.</p>
 <p>I love to code, solve problems, read about fintech and read the works of Knuth</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
@@ -8,7 +8,7 @@ Hey There! I am Akhil Mantha.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I a
 <p>One thing you may notice about me is that I am always reading or solving challenges and always drinking coffee. I love to develop apps, build systems and also like solving competitive coding problems. <br><br><br>Do you want to follow my code and read The art of Computer Programming with me? Follow up with me on github and also you can collaborate with me.<a href="https://github.com/akhilmantha"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/akhil-mantha-b7312885/">LinkedIn</a> and <br> <a href="https://www.hackerrank.com/akhilmantha">HackerRank</a>.</p>
 
-If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email.<!-- longlonglongcomment --> My email address is: <a href="akhilmantha@live.com">akhilmantha@live.com</a>.
+If you would like to get in touch with me, feel free to send me an email. My email address is: <a href="akhilmantha@live.com">akhilmantha@live.com</a>.
 
 <p>Cheers!</p>
 <span id="a">akhil@mantha</span>:<span id="b">~</span><span id="c">$</span> exit
