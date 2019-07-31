@@ -1,6 +1,6 @@
 <span id="a">akhil@mantha</span>:<span id="b">~</span><span id="c">$</span> cd akhilmantha/<!-- kjsdfhkjdhsfkjdshfkj -->About_Akhil
 <span id="a">akhil@mantha</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->akhilmantha.txt<br/><br/>
-My favourite code quote by Peter Deutsch, "<span id="k">To iterate is human, to recurse divine!</span>". <!-- sjkfhskjf -->
+My favourite code quote by Donald Knuth, "<span id="k">Science is what we understand well enough to explain to a computer. Art is everything else we do.</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Akhil Mantha.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working at a Ycombinator backed startup called Piggy as a Software Development Engineer.</p>
 <p>I love to code, solve problems, read about fintech and read the works of Knuth</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
